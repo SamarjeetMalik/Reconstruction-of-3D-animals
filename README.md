@@ -10,7 +10,6 @@
 
 ## Installation
 
-The code was developed with python=3.10 | pytorch=2.0.1 | pytorch-cuda=11.8 <br>
 Install the following libs:
 1) [Install PyTorch](https://pytorch.org/get-started/locally/#start-locally).
 2) [Install PyTorch3D](https://github.com/facebookresearch/pytorch3d/blob/main/INSTALL.md)
