@@ -68,9 +68,6 @@ The project was developed for the [CoP3D](https://github.com/facebookresearch/co
 
 In **config/keys.py**, manually enter the path where you store external data, and the path of the CoP3D dataset on your machine.
 
-## Optimize a CoP3D scene
-
-<img src="docs/preprocess.png" style="width: 60%;">
 
 ### 1- Preprocessing
 
