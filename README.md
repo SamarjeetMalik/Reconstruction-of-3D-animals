@@ -4,7 +4,7 @@
 
 
 
-<img src="docs/teaser.png" style="width: 60%;">
+
 
 
 
@@ -128,25 +128,3 @@ python main_visualize_reconstruction.py "path_of_the_custom_reconstruction_folde
 
 Code will be added to help through this process.
 
-## TODO
-
-* Include Sparse-keypoint keypoint predictor from [BITE](https://github.com/runa91/bite_release)
-* Add CSE embedding refinement with [Optical-Flow](https://github.com/princeton-vl/RAFT)
-
-
-## License
-
-See the LICENSE file for details about the license under which this code is made available.
-
-
-## Citation
-
-```
-@article{Sabathier2024AnimalAR,
-  title={Animal Avatars: Reconstructing Animatable {3D} Animals from Casual Videos},
-  author={Remy Sabathier and Niloy Jyoti Mitra and David Novotny},
-  journal={ArXiv},
-  year={2024},
-  volume={abs/2403.17103},
-}
-```
